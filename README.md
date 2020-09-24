@@ -8,4 +8,4 @@ Un repositorio es el nomnre de GIT para un proyecto
 
 Eso es _cursiva_ y la negrita es **así**.
 
-![ITC (CUATROVIENTOS)](http://cuatrov1-cp5028.wordpresstemporal.com/wp-content/uploads/2019/07/logo-cuatrovientos-2-1.png)
+![ITC (CUATROVIENTOS)](Test20-02-LearningGitHub/ea89044321534a117d4216c95a74f6a6.jpg)
